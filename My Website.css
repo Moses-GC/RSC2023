@@ -355,6 +355,9 @@ table tr :nth-child(3) {
 		font-size: 18pt;
 	}
 }
+.about {
+	font-size: 45%;
+    }
 @media screen and (max-width: 480px) {
     .container {
         padding-left: 20px;
@@ -364,6 +367,9 @@ table tr :nth-child(3) {
         font-size: 10pt;
     }
 }
+.about {
+	font-size: 45%;
+    }
 /*End Media Screen*/
 
 /*Slideshow Styles*/
