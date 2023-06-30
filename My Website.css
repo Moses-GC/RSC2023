@@ -333,10 +333,12 @@ table tr :nth-child(3) {
         border: 3px solid gold;
     }
 
-    .support {
-        width: auto;
-        float: none;
+    .about {
+	font-size: 45%;
     }
+	.mission {
+	font-size: 45%;
+	}
 
     .premium {
        font-size: 15pt;
