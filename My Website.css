@@ -81,13 +81,12 @@ header h1 {
 
 .about {
     margin: 0;
-    font-weight: bold;
-    font-style: normal;
     letter-spacing: 4px;
     padding-top: 10px;
     text-align: left;
     color: aqua;
     position: relative;
+	font-size: 100%
 }
 
 .about p {
