@@ -334,7 +334,7 @@ table tr :nth-child(3) {
     }
 
     .about {
-	font-size: 35%;
+	font-size: 70%;
 	font-weight: bold;
     }
 
@@ -359,13 +359,6 @@ table tr :nth-child(3) {
 	.premium {
 		font-size: 18pt;
 	}
-}
-.about {
-	font-size: 35%;
-	font-weight: bold;
-    }
-.mission {
-	font-size: 70%;
 }
 @media screen and (max-width: 480px) {
     .container {
