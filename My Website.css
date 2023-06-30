@@ -79,44 +79,6 @@ header h1 {
     color: aqua;
 }
 
-.about {
-    margin: 0;
-    letter-spacing: 4px;
-    padding-top: 10px;
-    text-align: left;
-    color: aqua;
-    position: relative;
-font-size: 500%;
-}
-
-.about p {
-    color:white;
-}
-
-.about div {
-    text-align: justify;
-    text-justify: inter-word;
-    width: 40%;
-    position: absolute;
-    top: 10px;
-    left: 15px;
-}
-
-.about div p {
-    padding-top: 10px;
-    font-size: 120%;
-}
-
-.mission {
-    background: url(backgrounds/background3.png);
-    color: aqua;
-    font-size: 150%;
-}
-
-.mission p {
-    color: white;
-}
-
 .description {
     margin-top: 10px;
     font-size: 108%;
@@ -321,14 +283,6 @@ table tr :nth-child(3) {
         text-align: center;
         border: 3px solid gold;
     }
-
-    .about {
-	font-size: 45%;
-    }
-
-	.mission {
-	font-size: 70%;
-}
 	
     .premium {
        font-size: 15pt;
@@ -357,12 +311,7 @@ table tr :nth-child(3) {
         font-size: 10pt;
     }
 }
-.about {
-	font-size: 8%;
-    }
-.mission {
-	font-size: 70%;
-}
+
 /*End Media Screen*/
 
 /*Slideshow Styles*/
