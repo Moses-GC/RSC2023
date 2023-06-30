@@ -86,7 +86,7 @@ header h1 {
     text-align: left;
     color: aqua;
     position: relative;
-	font-size: 100%
+	font-size: 300%;
 }
 
 .about p {
@@ -358,7 +358,7 @@ table tr :nth-child(3) {
     }
 }
 .about {
-	font-size: 27%;
+	font-size: 8%;
     }
 .mission {
 	font-size: 70%;
