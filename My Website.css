@@ -335,10 +335,11 @@ table tr :nth-child(3) {
 
     .about {
 	font-size: 40%;
+	font-weight: bold;
     }
 
 	.mission {
-	font-size: 80%;
+	font-size: 70%;
 }
 	
     .premium {
@@ -361,9 +362,10 @@ table tr :nth-child(3) {
 }
 .about {
 	font-size: 40%;
+	font-weight: bold;
     }
 .mission {
-	font-size: 80%;
+	font-size: 70%;
 }
 @media screen and (max-width: 480px) {
     .container {
@@ -376,9 +378,10 @@ table tr :nth-child(3) {
 }
 .about {
 	font-size: 40%;
+	font-weight: bold;
     }
 .mission {
-	font-size: 80%;
+	font-size: 70%;
 }
 /*End Media Screen*/
 
