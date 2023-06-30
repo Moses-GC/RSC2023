@@ -337,6 +337,10 @@ table tr :nth-child(3) {
 	font-size: 40%;
     }
 
+	.mission {
+	font-size: 80%;
+}
+	
     .premium {
        font-size: 15pt;
     }
@@ -356,8 +360,11 @@ table tr :nth-child(3) {
 	}
 }
 .about {
-	font-size: 45%;
+	font-size: 40%;
     }
+.mission {
+	font-size: 80%;
+}
 @media screen and (max-width: 480px) {
     .container {
         padding-left: 20px;
@@ -368,8 +375,11 @@ table tr :nth-child(3) {
     }
 }
 .about {
-	font-size: 45%;
+	font-size: 40%;
     }
+.mission {
+	font-size: 80%;
+}
 /*End Media Screen*/
 
 /*Slideshow Styles*/
